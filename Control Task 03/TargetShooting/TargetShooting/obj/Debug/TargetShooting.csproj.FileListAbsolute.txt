@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.exe.config
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.exe
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.pdb
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.exe
+D:\C#Learning\Labs\Lab03General\Control Task 03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.pdb
